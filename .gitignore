@@ -1,4 +1,6 @@
 venv/
-csvfiles/
-processed/
 results/
+processed/
+csvfiles/
+__pycache__/
+*.pyc
